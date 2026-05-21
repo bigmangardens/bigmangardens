@@ -1,16 +1,26 @@
-## Hi there 👋
+```markdown
+# Hey there 👋
 
-<!--
-**bigmangardens/bigmangardens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Henry, an aspiring developer based in the United Kingdom.
 
-Here are some ideas to get you started:
+I'm currently learning Python and working on building a solid programming foundation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Planning to expand into Lua, C++, and HTML next.
+
+This is a fresh profile — I'll be uploading projects and experiments here as I progress.
+
+---
+
+## Tools & Tech
+
+- Python (currently learning)
+- Lua, C++, HTML (coming soon)
+
+---
+
+## A Bit About Me
+
+- I game in my spare time
+- I go to the gym regularly
+- I have a cat, a dog, and a snake
+```
