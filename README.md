@@ -1,26 +1,27 @@
 ```markdown
-# Hey there 👋
+# hi there,
 
-I'm Henry, an aspiring developer based in the United Kingdom.
+- i'm henry, an trying to be a developer
+- based in the uk
 
-I'm currently learning Python and working on building a solid programming foundation.
+- i'm currently learning python and working on building a solid programming foundation
 
-Planning to expand into Lua, C++, and HTML next.
+- planning to expand into lua, c++, and html next
 
-This is a fresh profile — I'll be uploading projects and experiments here as I progress.
-
----
-
-## Tools & Tech
-
-- Python (currently learning)
-- Lua, C++, HTML (coming soon)
+- this is a fresh profile — i'll be uploading projects and experiments here as i progress
 
 ---
 
-## A Bit About Me
+## tools & tech
 
-- I game in my spare time
-- I go to the gym regularly
-- I have a cat, a dog, and a snake
+- python (currently learning)
+- lua, c++, html (coming soon)
+
+---
+
+## a bit about me
+
+- i game in my spare time
+- i go to the gym regularly
+- i have a cat, a dog, and a snake
 ```
