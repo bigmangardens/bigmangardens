@@ -12,14 +12,14 @@
 
 ---
 
-## tools & tech
+# tools & tech
 
 - python (currently learning)
 - lua, c++, html (coming soon)
 
 ---
 
-## a bit about me
+# a bit about me
 
 - i game in my spare time
 - i go to the gym regularly
