@@ -23,5 +23,5 @@
 
 - i game in my spare time
 - i go to the gym regularly
-- i have a cat, a dog, and a snake
+- i have 3 pets
 ```
